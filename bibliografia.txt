@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 chacon s and straub b pro git apress
 -loeiger, j. and Mccullough m version control with git o'reilly
+=======
+-scott chacon and ben strub pro git apress
+-ryan hodson. ry's git tutorial.smashwords(2014)
+>>>>>>> bibliografia
