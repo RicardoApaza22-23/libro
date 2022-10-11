@@ -1,0 +1,1 @@
+git permite la creacion de ramas lo que permite tener distintas verisones del mismo proyecto y trabajaar de manera simultanea
